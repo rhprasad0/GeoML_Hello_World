@@ -1,3 +1,4 @@
+# Entry point script for SageMaker inference instance deployment. Referenced by Deploy.ipynb
 
 import joblib
 import os
