@@ -1,7 +1,7 @@
 # Geospatial Machine Learning "Hello World" - a personal project
 ![](images/flowchart.png)
 ![](images/interface_gif.gif)
-(Model accuracy was not a priority for this project)
+(Model accuracy was not a priority for this project - it was more of a race to deployment and having a working interface)
 
 Who actually reads this stuff? Any way I am flattered that you are here to begin with and you should totally add me on LinkedIn. I don't bite! I swear!
 
