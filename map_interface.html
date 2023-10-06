@@ -109,8 +109,7 @@
               // the information in the Text Area component.
               const responseJSON = JSON.stringify(response, null, 2);
 			  const parsedJSON = JSON.parse(responseJSON);
-			  view.popup.content = responseJSON;
-              //view.popup.content = `${JSON.stringify(parsedJSON.data.message)}`;
+              view.popup.content = `Model prediction: ${JSON.stringify(parsedJSON.data.prediction)}`;
             } catch (error) {
               // If an error is returned in the response, display the error alongside the http status code.
               view.popup.content = `${error.details.httpStatus} error: "${error.message}."`;
