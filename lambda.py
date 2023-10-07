@@ -46,4 +46,4 @@ def lambda_handler(event, context):
     result = response['Body'].read().decode('utf-8')
     print(result)
     continent_id = int(result[1]) # This is a mere string, grab the number from it
-    return {"prediction:":get_continent(continent_id)}
+    return {"prediction":get_continent(continent_id)}
