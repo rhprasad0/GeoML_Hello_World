@@ -1,5 +1,6 @@
 # Geospatial Machine Learning "Hello World" - a personal project
 ![](images/flowchart.png)
+(Future Ryan here, post AWS ML cert: this is not architected correctly! Oh well!)
 ![](images/interface_gif.gif)
 (Model accuracy was not a priority for this project - it was more of a race to deployment and having a working interface)
 
