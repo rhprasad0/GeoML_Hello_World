@@ -3,6 +3,7 @@
 (Future Ryan here, post AWS ML cert: this is not architected correctly! Oh well!)
 ![](images/interface_gif.gif)
 (Model accuracy was not a priority for this project - it was more of a race to deployment and having a working interface)
+The endpoint was up for a week and was yanked. Serverless deployments are pretty cool from what I hear.
 
 Who actually reads this stuff? Any way I am flattered that you are here to begin with and you should totally add me on LinkedIn. I don't bite! I swear!
 
